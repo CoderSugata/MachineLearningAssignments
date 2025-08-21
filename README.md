@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/494629a6-78f5-451e-9567-204dd53a1099" />
+
+
 # 🤖 Machine Learning Assignments
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
